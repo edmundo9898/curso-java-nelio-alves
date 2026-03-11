@@ -56,6 +56,8 @@ public class ExercicioCondicional05 {
 
 		System.out.printf("Total: R$ %.2f%n", total);
 
+		FIM
+
 
 
 
