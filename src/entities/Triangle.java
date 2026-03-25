@@ -1,5 +1,5 @@
 package entities;
-//Class Triangulo
+//Class Triangulo ee
 public class Triangle {
     public double a;
     public double b;
